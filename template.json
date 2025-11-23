@@ -1,0 +1,8 @@
+{
+  "name": "@nikolasyugi Custom Kicad Template",
+  "description": "Project template with ready grid, track widths, via sizes, USB diff pair class, and personal title block.",
+  "version": "1.0",
+  "author": "@nikolasyugi",
+  "tags": "pcb, template"
+}
+

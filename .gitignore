@@ -1,0 +1,46 @@
+.pio
+.vscode
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.pio
+.DS_Store
+*.gcode
+
+# KiCad project files to ignore
+*.bak
+*.bck
+*.lck
+*.tmp
+*.dcm
+*.net
+*.xml
+fp-info-cache
+*autosave*
+
+# Automatic backup files
+*~
+_fschk.*
+
+
+# KiCad simulation
+*.cir
+*.raw
+*.log
+*.out
+*.cache
+*.sch-bak
+*-backups/
+
+# KiCad-specific temporary files
+sym-lib-table-bak
+fp-lib-table-bak
+__pycache__/
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Intermediate build directories
+fabrication/
+plot/
