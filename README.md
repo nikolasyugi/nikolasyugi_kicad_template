@@ -18,7 +18,7 @@ Goal: create a symbolic link from the checked-out copy of this repository into K
 
 This repository includes a small helper script, `install-template.sh`, which automates creating, replacing, and removing the symlink. The script defaults are:
 
-- `REPO_PATH="/Users/nikolasyugi/Documents/projects/nikolasyugi_kicad_template"`
+- `REPO_PATH="/Users/nikolasyugi/Documents/projects/nikolasyugi_kicad_template/nikolasyugi_template"`
 - `KICAD_TEMPLATE_DIR="~/Documents/KiCad/9.0/template"`
 
 Basic usage:

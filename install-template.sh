@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # Configuration (edit here or export env vars before running)
-REPO_PATH="/Users/nikolasyugi/Documents/projects/nikolasyugi_kicad_template"
+REPO_PATH="/Users/nikolasyugi/Documents/projects/nikolasyugi_kicad_template/nikolasyugi_template"
 KICAD_TEMPLATE_DIR="~/Documents/KiCad/9.0/template"
 
 # Expand leading ~ to $HOME if present
